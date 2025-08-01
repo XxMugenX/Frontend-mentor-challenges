@@ -36,8 +36,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 how to centre a div vertically and horizontally using margin auto and align-items
 
-To see how you can add code snippets, see below:
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 <div class="qrcode-box">
@@ -58,8 +56,6 @@ body{
 }
 ```
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 different displays and how to manipulate them
@@ -70,7 +66,5 @@ different displays and how to manipulate them
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/XxMugenX)
 
